@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "./static/css/main.cfbc3477.css",
+    "main.js": "./static/js/main.25f385ca.js",
+    "static/js/787.46fb8f97.chunk.js": "./static/js/787.46fb8f97.chunk.js",
+    "static/media/pizzaLeft.jpg": "./static/media/pizzaLeft.24b07891fef1c8dae848.jpg",
+    "static/media/multiplePizzas.jpeg": "./static/media/multiplePizzas.490709e2113d96ca24a1.jpeg",
+    "static/media/kitchen-tools.png": "./static/media/kitchen-tools.3d4234c7ef0642024d6d.png",
+    "index.html": "./index.html",
+    "main.cfbc3477.css.map": "./static/css/main.cfbc3477.css.map",
+    "main.25f385ca.js.map": "./static/js/main.25f385ca.js.map",
+    "787.46fb8f97.chunk.js.map": "./static/js/787.46fb8f97.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfbc3477.css",
+    "static/js/main.25f385ca.js"
+  ]
+}
